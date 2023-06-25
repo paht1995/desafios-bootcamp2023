@@ -1,0 +1,51 @@
+Pedro. H@Pedro MINGW64 /c/desarrollo/educacionit/bootcamp-java-universidad-2023/desafios-bootcamp2023/Desafio2-ejercicio1-git (main)
+$ git log
+commit 67b4507fac5e48d0f89fc5123818756ebc08f4dd (HEAD -> main, origin/main, origin/HEAD)
+Merge: ff260ef b5fe25b
+Author: paht1995 <paht1995@gmail.com>
+Date:   Sun Jun 25 20:42:04 2023 -0300
+
+    Merge branch 'main' of https://github.com/paht1995/desafios-bootcamp2023
+
+commit ff260efcc223a43fa867120bde9214604f78a56e
+Author: paht1995 <paht1995@gmail.com>
+Date:   Sun Jun 25 20:41:28 2023 -0300
+
+    agregado de Log para desafio 1 y 2
+
+commit b5fe25becb41ca1422a7a84a6ffa641b5a8ee63c
+Author: paht1995 <paht1995@gmail.com>
+Date:   Wed Jun 21 22:18:06 2023 -0300
+
+    Desafio git - ejercicio 2 - nuevos cambio en archivo
+
+commit f79bcc4c0bd66c6000a5114092f459ee8cbdba97
+Author: paht1995 <paht1995@gmail.com>
+Date:   Wed Jun 21 18:02:28 2023 -0300
+
+    desafio git 2 -nuevos cambios
+
+commit 8f8de05baaeefc533c742bd220b8e5117de67cf2
+Author: paht1995 <paht1995@gmail.com>
+Date:   Wed Jun 21 16:39:25 2023 -0300
+
+    desafio - eliminación de archivo
+
+commit d8886181c1f1643239d9a5676a592f7705296c12
+Author: paht1995 <paht1995@gmail.com>
+Date:   Wed Jun 21 16:37:24 2023 -0300
+
+    desafio - agregar un nuevo archivo
+
+commit 54af9769e7562e4bb7c29430b4b694e57b339e91
+Author: paht1995 <paht1995@gmail.com>
+Date:   Wed Jun 21 16:32:11 2023 -0300
+
+    desafio - nuevo repo y documento
+
+commit ebb98346471583312ad454b7b8aa4f005baf606a
+Author: paht1995 <117311569+paht1995@users.noreply.github.com>
+Date:   Wed Jun 21 16:16:42 2023 -0300
+
+    Initial commit
+
