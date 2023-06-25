@@ -1,0 +1,29 @@
+Author: paht1995 <paht1995@gmail.com>
+Date:   Wed Jun 21 18:02:28 2023 -0300
+
+    desafio git 2 -nuevos cambios
+
+commit 8f8de05baaeefc533c742bd220b8e5117de67cf2
+Author: paht1995 <paht1995@gmail.com>
+Date:   Wed Jun 21 16:39:25 2023 -0300
+
+    desafio - eliminación de archivo
+
+commit d8886181c1f1643239d9a5676a592f7705296c12
+Author: paht1995 <paht1995@gmail.com>
+Date:   Wed Jun 21 16:37:24 2023 -0300
+
+    desafio - agregar un nuevo archivo
+
+commit 54af9769e7562e4bb7c29430b4b694e57b339e91
+Author: paht1995 <paht1995@gmail.com>
+Date:   Wed Jun 21 16:32:11 2023 -0300
+
+    desafio - nuevo repo y documento
+
+commit ebb98346471583312ad454b7b8aa4f005baf606a
+Author: paht1995 <117311569+paht1995@users.noreply.github.com>
+Date:   Wed Jun 21 16:16:42 2023 -0300
+
+    Initial commit
+
