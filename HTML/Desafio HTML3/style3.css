@@ -1,0 +1,104 @@
+.contenedor-general {
+    width: 1200px; /*ancho*/
+}
+
+.cont1 {
+    background-color:white ;
+    width: 1200px; /*ancho*/
+    height: 160px; /*alto*/
+}
+
+.cont2 {
+    background-color:black ;
+    width: 1200px; /*ancho*/
+    height: 240px; /*alto*/
+}
+
+.cont3 {
+    background-color:white ;
+    width: 1200px; /*ancho*/
+    height: 500px; /*alto*/
+}
+
+.cont4 {
+    background-color:white ;
+    width: 1200px; /*ancho*/
+    height: 120px; /*alto*/
+}
+
+.cont5 {
+    background-color:white ;
+    width: 1200px; /*ancho*/
+    height: 120px; /*alto*/
+}
+
+/*
+Monserrat black 50pt
+Monserrat black 148pt
+Monserrat black 163pt
+Monserrat semibold 46pt
+Monserrat black 45pt
+Monserrat black 44pt
+*/
+
+.linea1 {
+    font-family: 'montserrat', sans-serif;
+    font-size: 67px;/*50pt*/
+    font-weight: 800;
+    color: #0a2ff1;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.linea2 {
+    font-family: 'montserrat', sans-serif;
+    font-size: 197px;/*148pt*/
+    font-weight: 800;
+    color: white;
+    line-height: 1.22;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.linea3 {
+    font-family: 'montserrat', sans-serif;
+    font-size: 217px;/*163pt*/
+    font-weight: 800;
+    color: black;
+    line-height: 2.3;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.linea4 {
+    font-family: 'montserrat', sans-serif;
+    font-size: 60px;/*45pt y el centro con 36pt*/
+    color: #0a2ff1;
+    text-align: center;
+    background-color: white;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.pal1 {
+    font-weight: 800;
+}
+
+.pal2 {
+    background-color: black;
+    color: white;
+    font-weight: 800;
+}
+
+.linea5 {
+    font-family: 'montserrat', sans-serif;
+    font-size: 59px;/*44pt*/
+    font-weight: 525;
+    color: #0a2ff1;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}

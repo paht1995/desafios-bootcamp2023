@@ -1,0 +1,50 @@
+.parrafo1 {
+    font-family:'poppins';
+    font-size: 32px;/*24pt*/
+    color: #0a2ff1;
+    margin: 0px;;
+}
+
+.cont-foo {
+position: relative; 
+
+    
+}
+
+.img1 {
+   width: 100px;
+   position: relative;
+   left: 80px;
+}
+
+.img2 {
+    width: 100px;
+    position: relative;
+    left: 130px;    
+}
+
+.img3 {
+    width: 100px;
+    position: relative;
+    left: 180px;
+    top: 30px;    
+}
+
+.img4 {
+    width: 100px;
+    position: relative;
+    left: 230px;    
+
+}
+
+.img5 {
+    width: 100px;
+    position: relative;
+    left: 280px;    
+
+}
+.imagenes {
+    transform: scale(0.5);
+    margin-left: 0px;
+    
+}
