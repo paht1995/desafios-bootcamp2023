@@ -1,0 +1,53 @@
+.cont-gen {
+    width: 750px;    
+}
+
+.linea1 {
+    font-family:'poppins';
+    font-size: 78px;/*59pt*/
+    font-weight: bold;
+    color: #0a2ff1;
+    margin: 0px;
+}
+
+.linea2 {
+    font-family: 'poppins';
+    font-size: 78px;/*59pt*/
+    font-weight: bold;
+    color: #0a2ff1;
+    margin: 0px;
+}
+
+.borde2 {
+    background-color: #3ffff3;
+
+}
+
+.parrafo1 {
+    width: 750px;
+    font-family: 'poppins';
+    font-size: 31px;/*23pt*/
+    font-weight: 50px;
+    color: #0a2ff1;
+}
+
+.cont-imag {
+    position: relative;
+
+}
+
+.celular {
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    z-index: 2;
+}
+
+.fondo {
+    width: 400px;
+    height: 450px;
+    position: absolute;
+    bottom: 1;
+    z-index: 1;
+    
+}
